@@ -4,4 +4,4 @@
 
 ##Demo Link:-
 
-[Click Me](http://http://tandj.in/)
+[Click Me](http://tandj.in)
