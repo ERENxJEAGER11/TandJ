@@ -4,4 +4,4 @@
 
 ##Demo Link:-
 
-[Click Me](http://tandjapp.herokuapp.com/)
+[Click Me](http://http://tandj.in/)
